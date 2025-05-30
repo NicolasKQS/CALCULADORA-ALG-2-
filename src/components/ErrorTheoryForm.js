@@ -84,5 +84,3 @@ const ErrorTheoryForm = () => {
 };
 
 export default ErrorTheoryForm;
-
-// DONE

@@ -303,5 +303,3 @@ const NonLinearEquations = () => {
 };
 
 export default NonLinearEquations;
-
-// DONE

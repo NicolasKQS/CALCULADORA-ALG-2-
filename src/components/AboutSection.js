@@ -28,7 +28,7 @@ const AboutSection = () => {
       </div>
 
       <div className="mt-6 bg-gray-700 p-4 rounded-lg">
-        <h3 className="text-xl font-semibold mb-2">MathSolver Pro</h3>
+        <h3 className="text-xl font-semibold mb-2">X-Franz</h3>
         <p className="text-gray-300">
           Una herramienta completa para análisis numérico desarrollada como proyecto académico.
           Combina métodos matemáticos avanzados con una interfaz intuitiva.

@@ -8,7 +8,7 @@ const MathHeader = ({ onNavClick }) => {
           className="text-3xl font-bold cursor-pointer transition-all duration-300 hover:text-purple-400"
           onClick={() => onNavClick('dashboard')}
         >
-          MathSolver Pro
+          X-Franz
         </h1>
         <nav className="flex space-x-4">
           <button 
